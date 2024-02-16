@@ -10,6 +10,7 @@ Names of group members includes:
 1. Kuchahyells Mathias
 2. Simeon Benjamin
 3. Billiyakhamsu Yusuf
+4. Zailani Abdulkadir
 ## PROGRAMMING LANGUAGE
 * The Languages used by group members are as follows.
 * ## Domain Details
