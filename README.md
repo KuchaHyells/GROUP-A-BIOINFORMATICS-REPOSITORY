@@ -11,12 +11,14 @@ Names of group members includes:
 2. Simeon Benjamin
 3. Billiyakhamsu Yusuf
 4. Zailani Abdulkadir
+5. Ibrahim Faisal Thuwa
 ## PROGRAMMING LANGUAGE
 * The Languages used by group members are as follows.
 * ## Domain Details
 | Name | Matric number        | programming language       |
 |-------------|-------------|-------------|
 | Kuchahyells Mathias |   UG18/MDHA/1006   | Python     |
-|  Simeon Benjamin   |   UG18/MDHA/1021  | R      | 
-|  Billiyakhamsu Yusuf    | UG18/MDHA/1021       | Bash     |
+|  Simeon Benjamin   |   UG18/MDHA/1021  | Java     | 
+|  Billiyakhamsu Yusuf    | UG18/MDHA/1021       | R     |
 |  Zailani Abdulkadir|   UG18/MDHA/1010  |     C  |
+|  Ibrahim Faisal Thuwa|   UG19/MDHA/2001  |     C#  
