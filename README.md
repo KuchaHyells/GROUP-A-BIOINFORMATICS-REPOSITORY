@@ -12,12 +12,9 @@ Names of group members includes:
 3. Billiyakhamsu Yusuf
 ## PROGRAMMING LANGUAGE
 * The Languages used by group members are as follows.
-| S/N    | Name                              | Matriculation Number    | Programming Lang |
-|--------|-----------------------------------|-------------------------|------------------|
-|   1    | Kuchahyells Mathias               | UG18/MDHA/1006          |  Python          |
-|   2    | Simeon Benjamin                   | UG18/MDHA/1012          |  R               |
-|   3    | Billiyakhamsu Yusuf               | UG18/MDHA/1021          |  Bash            |
-# Workflow
-# HELP
-To execute the scripts from this repository, a general script is provided that contains information on cloning the repository itself. Using git clone followed by the link to the repository allows you to clone. Upon cloning, it will provide command to change the directory from the current repository to the assignment-gsu-group-A Repository. To execute the scripts, you need to add rights to execute which can be achieved by chmod +x script. A for loop is provided that helps loop through each and every script and execute as per the commands within the loop.
-
+* ## Domain Details
+| Name | Matric number        | programming language       |
+|-------------|-------------|-------------|
+| Kuchahyells Mathias |   UG18/MDHA/1006   | Python     |
+|  Simeon Benjamin   |   UG18/MDHA/1021  | R      | 
+|  Billiyakhamsu Yusuf    | UG18/MDHA/1021       | Bash     |
