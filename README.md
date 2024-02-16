@@ -18,4 +18,4 @@ Names of group members includes:
 | Kuchahyells Mathias |   UG18/MDHA/1006   | Python     |
 |  Simeon Benjamin   |   UG18/MDHA/1021  | R      | 
 |  Billiyakhamsu Yusuf    | UG18/MDHA/1021       | Bash     |
-|  Zailani Abdulkadir|   UG18/MDHA/1010  |        |
+|  Zailani Abdulkadir|   UG18/MDHA/1010  |     C  |
