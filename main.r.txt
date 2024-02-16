@@ -1,0 +1,4 @@
+print("Name: Simeon Benjamin")
+print("Email: simeonbenjamin5225@gmail.com")
+print("Slack Username: Simeon Benjamin")
+print("Area of Interest: Data Analysis")
