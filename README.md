@@ -14,7 +14,6 @@ Names of group members includes:
 5. Ibrahim Faisal Thuwa
 ## PROGRAMMING LANGUAGE
 * The Languages used by group members are as follows.
-* ## Domain Details
 | Name | Matric number        | programming language       |
 |-------------|-------------|-------------|
 | Kuchahyells Mathias |   UG18/MDHA/1006   | Python     |
