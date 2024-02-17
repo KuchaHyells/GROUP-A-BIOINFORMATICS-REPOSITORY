@@ -14,10 +14,22 @@ Names of group members includes:
 5. Ibrahim Faisal Thuwa
 ## PROGRAMMING LANGUAGE
 * The Languages used by group members are as follows.
-| Name | Matric number        | programming language       |
+
+* | Name | Matric number        | programming language       |
 |-------------|-------------|-------------|
-| Kuchahyells Mathias |   UG18/MDHA/1006   | Python     |
-|  Simeon Benjamin   |   UG18/MDHA/1021  | Java     | 
-|  Billiyakhamsu Yusuf    | UG18/MDHA/1021       | R     |
-|  Zailani Abdulkadir|   UG18/MDHA/1010  |     C  |
-|  Ibrahim Faisal Thuwa|   UG19/MDHA/2001  |     C#  
+| Kuchahyells Mathias | UG18/MDHA/1006     | Python     |
+| Simeon Benjamin    | UG18/MDHA/1012    | Java      |
+| Billiyakhamsu Yusuf    | UG18/MDHA/1021       | R      |
+| Zailani Abdulkadir | UG18/MDHA/1010 | C |
+| Ibrahim Faisal Thuwa | UG19/MDHA/2001 | c# |
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Row 1    | Row 1    |
+| Row 2    | Row 2    | Row 2    |
+| Row 3    | Row 3    | Row 3    |
+| Row 4    | Row 4    | Row 4    |
+| Row 5    | Row 5    | Row 5    |
+| Row 6    | Row 6    | Row 6    |
+
+
