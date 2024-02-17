@@ -2,8 +2,10 @@
 
 # Define variables
 github_repo="https://github.com/KuchaHyells/GROUP-A-BIOINFORMATICS-REPOSITORY.git"
-output_csv="output.csv"
-temp_dir="temp_repo"
+output_csv="Group_A_File.csv"
+temp_dir="Group_A_Folder"
+
+rm -f $output_csv
 
 # Clone the GitHub repository
 echo "Cloning repository..."
@@ -42,6 +44,7 @@ echo " C#,Faisal Ibrahim,ibrahimfaisal20001ha@gmail.com,Faisal Ibrahim,Epigenomi
 
 # Clean up
 cd ..
+
 
 
 echo "CSV file generated: $output_csv"
