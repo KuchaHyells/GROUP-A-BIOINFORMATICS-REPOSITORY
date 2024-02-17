@@ -23,13 +23,13 @@ Names of group members includes:
 | Zailani Abdulkadir | UG18/MDHA/1010 | C |
 | Ibrahim Faisal Thuwa | UG19/MDHA/2001 | c# |
 
-| Column 1 | Column 2 | Column 3 |
+| Name | Matric number | programming language |
 |----------|----------|----------|
-| Row 1    | Row 1    | Row 1    |
-| Row 2    | Row 2    | Row 2    |
-| Row 3    | Row 3    | Row 3    |
-| Row 4    | Row 4    | Row 4    |
-| Row 5    | Row 5    | Row 5    |
+| Kuchahyells Mathias    | UG18/MDHA/1006    | Python    |
+| Simeon Benjamin    | UG18/MDHA/1012    | Java    |
+| Billiyakhamsu Yusuf    | UG18/MDHA/1021    | R    |
+| Zailani Abdulkadir    | UG18/MDHA/1010    | C    |
+| Ibrahim Faisal Thuwa    | UG18/MDHA/2001    | Row 5    |
 | Row 6    | Row 6    | Row 6    |
 
 
