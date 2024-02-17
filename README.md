@@ -4,7 +4,7 @@ This is a repository for the work assigned to Group A Bioinformatics students of
 # INTRODUCTION
 Bioinformatics is the application of computational methods to analyze biological data, such as DNA, RNA, proteins, and metabolic pathways. Bioinformatics emerged in the 1960s with the development of sequence analysis tools and databases1. Bioinformatics aims to understand the molecular basis of life and disease, as well as to design new drugs, vaccines, and biotechnologies. Bioinformatics is an interdisciplinary field that combines biology, computer science, mathematics, statistics, and engineering
 # SCRIPTS
-SCRIPTS created also by contributors of this git repository using different programming languages that prints their names, email addresses, slack usernames and area of interest in bioinformatics are also found attached to this repository.
+SCRIPTS created by contributors of this git repository using different programming languages that prints their names, email addresses, slack usernames and area of interest in bioinformatics are also found attached to this repository.
 ## GROUP A MEMBERS 
 Names of group members includes:
 1. Kuchahyells Mathias
